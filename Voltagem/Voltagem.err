@@ -1,0 +1,7 @@
+Warning[2054] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 99 : suspicious pointer conversion
+Warning[2054] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 108 : suspicious pointer conversion
+Warning[2068] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 161 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 161 : default startup code expects main function declared as 'void main (void)'
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 189 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 195 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\Interrupções\Voltagem\Voltagem.c 201 : call of function without prototype
